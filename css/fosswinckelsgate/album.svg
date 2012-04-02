@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="0.122857in"
+   height="0.105714in"
+   viewBox="0 0 43 37"
+   id="svg3773"
+   version="1.1"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="album.svg">
+  <metadata
+     id="metadata3780">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3778" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="763"
+     inkscape:window-height="691"
+     id="namedview3776"
+     showgrid="false"
+     inkscape:zoom="53.247123"
+     inkscape:cx="3.3497376"
+     inkscape:cy="4.7564171"
+     inkscape:window-x="274"
+     inkscape:window-y="141"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3773" />
+  <path
+     id="Valg#4"
+     d="m 23.88,10.5 1.75,-1 0.75,1.38 z M 28.1,3.37 c 0,0 1.71,3.97 3.53,8.26 l 2.24,0.06 -0.52,4.57 3.73,8.29 -5.05,2.402576 L 31.27,34.54 16.840304,32.931856 9.75,36 7.675568,31.838144 1.46,31.16 2.673712,19.777008 0.48,15.08 3.63,13.74 4.06,8.3 14.741409,9.2542955 z M 28.33,16.1 26.87,29.01 6.99,26.75 8.46,13.84 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;stroke:none;stroke-width:0.99944710999999997;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1;fill-rule:evenodd;opacity:0.57"
+     sodipodi:nodetypes="cccccccccccccccccccccccccc"
+     inkscape:export-filename="C:\Users\Fredrik\Desktop\fredrik.ludvigsen.name\css\fosswinckelsgate\album.png"
+     inkscape:export-xdpi="321.79065"
+     inkscape:export-ydpi="321.79065" />
+</svg>
